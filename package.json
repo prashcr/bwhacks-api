@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "bcryptjs": "^2.3.0",
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "express-restify-mongoose": "^2.3.1",
+    "express-session": "^1.13.0",
+    "jwt-simple": "^0.4.1",
+    "lodash": "^4.5.0",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.2.7",
+    "mongoose-paginate": "^5.0.0",
+    "mongoose-timestamps": "0.0.1",
+    "morgan": "^1.7.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  }
+}
